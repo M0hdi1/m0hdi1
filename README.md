@@ -9,16 +9,16 @@
 
 ### Social Media  
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://t.me/M0hdi1" style="text-decoration: none; color: inherit;">
+  <a href="https://t.me/M0hdi1">
     <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://x.com/M0hdi1" style="text-decoration: none; color: inherit;">
+  <a href="https://x.com/M0hdi1">
     <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/m0hdi1" style="text-decoration: none; color: inherit;">
+  <a href="https://linkedin.com/in/m0hdi1">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/m0hdi1_gh" style="text-decoration: none; color: inherit;">
+  <a href="https://www.instagram.com/m0hdi1_gh">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </div>
@@ -86,13 +86,13 @@
 
 ### 📚 Cheat Sheets & Guides  
 
-**Explore my Cheat Sheet for Programming Fundamentals and Prerequisites in Cyber Security:**  
+**Explore my Chaet Sheet for Programming Fundamentals and Prereqiuistes Cyber Security:**  
 <div style="display: flex; flex-direction: column; gap: 8px;">
-  <a href="https://m0hdi1.gitbook.io/introduction" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/Master%20Programming%20%26%20Cybersecurity%20Essentials-563D7C?style=flat&logo=gitbook&logoColor=white" />
+  <a href="https://m0hdi1.gitbook.io/introduction">
+    <img src="https://img.shields.io/badge/Master Programming & Cybersecurity Essentials-563D7C?style=flat&logo=gitbook&logoColor=white" />
   </a>
   <ul style="margin: 0; padding: 0; list-style: none;">
-    <li>🛠️ <b>Fundamentals:</b> Operating Systems, Shell Scripting, and Linux Commands</li>
+    <li>🛠️ <b>Fundamentals:</b>  Operating Systems, Shell Scripting, and Linux Commands</li>
     <li>💻 <b>Programming Languages:</b> PHP, Python, JavaScript, Bash, and more</li>
     <li>🌐 <b>Web Development:</b> HTML, CSS, JavaScript Frameworks</li>
   </ul>
