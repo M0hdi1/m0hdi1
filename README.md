@@ -44,6 +44,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
@@ -82,3 +83,19 @@
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
 </div>
 <br />
+
+---
+
+### 📚 Cheat Sheets & Guides  
+
+**Explore my Cheat Sheet for Programming Fundamentals and Prerequisites in Cyber Security:**  
+<div style="display: flex; flex-direction: column; gap: 8px;">
+  <a href="https://m0hdi1.gitbook.io/introduction" style="text-decoration: none; color: inherit;">
+    <img src="https://img.shields.io/badge/Master%20Programming%20%26%20Cybersecurity%20Essentials-563D7C?style=flat&logo=gitbook&logoColor=white" />
+  </a>
+  <ul style="margin: 0; padding: 0; list-style: none;">
+    <li>🛠️ <b>Fundamentals:</b> Operating Systems, Shell Scripting, and Linux Commands</li>
+    <li>💻 <b>Programming Languages:</b> PHP, Python, JavaScript, Bash, and more</li>
+    <li>🌐 <b>Web Development:</b> HTML, CSS, JavaScript Frameworks</li>
+  </ul>
+</div>
