@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M0hdi1&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=M0hdi1&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -27,6 +27,9 @@
 
 ###
 ---
+
+###
+
 
 ## 🛠️ Skills
 ### Programming & Development
@@ -100,6 +103,7 @@
 
 ---
 
+###
 ## 📚 Cheat Sheets & Guides
 
 **Explore my Cheat Sheet for Programming Fundamentals and Prerequisites in Cyber Security:**
@@ -117,6 +121,8 @@
 
 ---
 
+
+###
 ## Social Media
 
 <div align="left">
