@@ -1,13 +1,5 @@
 # Hello there! 👋 I'm Mahdi Gholamrezai
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=M0hdi1.M0hdi1&"  />
-</div>
-
-###
-
 **Offensive Security Researcher at @unk9vvn**
 
 🌍 **Based in:** Alborz, Karaj, Iran  
@@ -27,16 +19,19 @@
 
 ###
 
-## 🛠️ Skills
-
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=M0hdi1.M0hdi1&"  />
+</div>
+
+###
+---
+
+## 🛠️ Skills
 ### Programming & Development
 
-###
-
-**Languages:**
-
+*Languages:*
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -55,9 +50,7 @@
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
 </div>
 
-###
-
-**Frameworks & Libraries:**
+*Frameworks & Libraries:*
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -73,9 +66,7 @@
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
 </div>
 
-###
-
-**Databases:**
+*Databases:*
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
@@ -83,9 +74,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
-###
-
-**Backend Technologies:**
+*Backend Technologies:*
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
@@ -95,17 +84,13 @@
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
 </div>
 
-###
-
-**Containerization:**
+*Containerization:*
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-###
-
-**Operating Systems:**
+*Operating Systems:*
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -113,7 +98,7 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
 
-###
+---
 
 ## 📚 Cheat Sheets & Guides
 
@@ -130,7 +115,7 @@
   </ul>
 </div>
 
-###
+---
 
 ## Social Media
 
