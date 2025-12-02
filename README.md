@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Mahdi Gholamrezai
 
-**Offensive Security Researcher at [@unk9vvn](https://github.com/unk9vvn)**
+**CTO & Offensive Security Researcher at [@unk9vvn](https://github.com/unk9vvn)**
 
 🌍 **Based in:** Alborz, Karaj, Iran  
 ✉️ **Contact:** mahdi0gholamrezai1@gmail.com  
